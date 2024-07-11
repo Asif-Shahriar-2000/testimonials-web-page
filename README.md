@@ -1,0 +1,3 @@
+# testimonials-web-page
+this website is responsive only for the device with 640px and 1280px...
+I am learning project from devChallenge.io
